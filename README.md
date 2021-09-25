@@ -14,15 +14,6 @@ I'm open to opportunities as a software developer!
 ## About Me
 As a developer, I love building projects that capture the client's intent and aren't satisfied with being good enough. I believe perfect is the biggest obtacle in the pursuit of excellence, teams are greater than the sum of their parts, and the best debugging often takes place away from the computer. I'm excited to continue creating the truth behind "there's an app for that", and bring novelty to the mundane in the process. 
 
-## Contact
-
-Email: JJMrqs@gmail.com    
-LinkedIn: https://www.linkedin.com/in/jj-marquis/
-
-## Education
-Undergrad: Northwestern University   
-Bootcamp: Hack Reactor Software Engineering Immersive   
-
 ## Technologies
 
 Frontend:  
@@ -41,6 +32,15 @@ Testing and Deployment:
 
 Tools and Utilities:   
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+## Contact
+
+Email: JJMrqs@gmail.com    
+LinkedIn: https://www.linkedin.com/in/jj-marquis/
+
+## Education
+Undergrad: Northwestern University   
+Bootcamp: Hack Reactor Software Engineering Immersive   
 
 
 ## Perspective
