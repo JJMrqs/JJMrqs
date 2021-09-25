@@ -10,7 +10,7 @@
 
 ## Contact
 
-Email: JJMrqs@gmail.com
+Email: JJMrqs@gmail.com    
 LinkedIn: https://www.linkedin.com/in/jj-marquis/
 
 ## Education
