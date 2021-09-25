@@ -8,6 +8,12 @@
 </h3>
 <!-- markdownlint-enable MD033 -->
 
+## Current Status
+Open to work
+
+## About Me
+As a developer, I love building projects that capture the client's intent and aren't satisfied with good enough. I believe perfect is the biggest obtacle in the pursuit of excellence, teams are greater than the sum of their parts, and the best debugging often takes place away from the computer. I'm excited to continue creating truth to the 2000's marketing phrase "there's an app for that", and bring novelty to the mudnane in the process. 
+
 ## Contact
 
 Email: JJMrqs@gmail.com    
@@ -38,6 +44,7 @@ Tools and Utilities:
 
 
 ## Perspective
+
 <!-- markdownlint-disable MD033 MD041-->
 <h3 align="center"> Never forget to challenge your own point of view </h3>
 <div margin="auto" align="center">
