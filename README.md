@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+name+is+JJ+and+I'm+a+Fullstack+Developer;I've+been+building+projects+my whole+life;I+built+my+first+board+set+when+I+was+7;I+built+my+first+theater+set+when+I+was+18;I+built+my+first+Fullstack+App+when+I+was+29;What+can+I+help+build+for+you?)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%2394A6B1EE&center=true&vCenter=true&width=500&lines=Hi!+I'm+JJ+and+I'm+a+Fullstack+Developer;I've+been+building+things+my+whole+life.;I+used++to+build+theater+sets%2C;and+now+I+build+Apps!;No+matter+what+I'm+building%2C;collaboration+is+at+the+heart+of+it.;What+should+we+build+next%3F)](https://git.io/typing-svg)
 
 <!--
 **JJMrqs/JJMrqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
