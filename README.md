@@ -1,11 +1,11 @@
 <!-- markdownlint-disable MD033 MD041-->
 <p align="center">
-  <h3 align="center">Welcome!</h3>
+  <h1 align="center">Welcome!</h1>
 </p>
 
-<p align="center">
+<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=%2394A6B1EE&center=true&vCenter=true&width=750&lines=Hi!+I'm+JJ+and+I'm+a+Fullstack+Developer;I've+been+building+things+my+whole+life.;I+used++to+build+theater+sets%2C+and+now+I+build+Apps!;No+matter+what+I'm+building...;collaboration+is+at+the+heart+of+it.;What+should+we+build+next?">
-</p>
+</h3>
 <!-- markdownlint-enable MD033 -->
 
 ## Contact
@@ -14,8 +14,8 @@ Email: JJMrqs@gmail.com
 LinkedIn: https://www.linkedin.com/in/jj-marquis/
 
 ## Education
-Northwestern University
-Hack Reactor Software Engineering Immersive
+Undergrad: Northwestern University   
+Bootcamp: Hack Reactor Software Engineering Immersive   
 
 ## Technologies
 
