@@ -12,7 +12,7 @@
 I'm open to opportunities as a software developer!
 
 ## About Me
-As a developer, I love building projects that capture the client's intent and aren't satisfied with good enough. I believe perfect is the biggest obtacle in the pursuit of excellence, teams are greater than the sum of their parts, and the best debugging often takes place away from the computer. I'm excited to continue creating truth to the 2000's marketing phrase "there's an app for that", and bring novelty to the mudnane in the process. 
+As a developer, I love building projects that capture the client's intent and aren't satisfied with being good enough. I believe perfect is the biggest obtacle in the pursuit of excellence, teams are greater than the sum of their parts, and the best debugging often takes place away from the computer. I'm excited to continue creating the truth behind "there's an app for that", and bring novelty to the mundane in the process. 
 
 ## Contact
 
