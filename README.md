@@ -38,5 +38,6 @@ Tools and Utilities:
 
 
 ## Perspective
-Never forget to challenge your own point of view
-![upsidedownImage](./upsideDown.jpeg)
+<!-- markdownlint-disable MD033 MD041-->
+<h3 align="center"> Never forget to challenge your own point of view </h3>
+<img src="./upsideDown.jpeg" align="center" />  
