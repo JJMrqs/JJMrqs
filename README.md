@@ -40,6 +40,6 @@ Tools and Utilities:
 ## Perspective
 <!-- markdownlint-disable MD033 MD041-->
 <h3 align="center"> Never forget to challenge your own point of view </h3>
-<div margin="auto">
+<div margin="auto" align="center">
 <img src="./upsideDown.jpeg"/>  
 </div>
